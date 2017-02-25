@@ -1,0 +1,28 @@
+{
+  "name": "atom-pug",
+  "version": "0.0.1",
+  "description": "Pug language support in Atom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leonschwanitz/atom-pug"
+  },
+  "keywords": [
+    "atom",
+    "jade",
+	"pug"
+  ],
+  "author": "Leon Schwanitz <leon@voxelboxstudios.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonschwanitz/atom-pug/issues"
+  },
+  "homepage": "https://github.com/leonschwanitz/atom-pug",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  }
+}
