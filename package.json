@@ -1,6 +1,6 @@
 {
   "name": "atom-pug",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Pug language support in Atom",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "atom",
     "jade",
-	"pug"
+    "pug"
   ],
   "author": "Leon Schwanitz <leon@voxelboxstudios.com>",
   "license": "MIT",
